@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BlazorWASM.dll": "sha256-ZVetwMFahkUbc2GLypLcLZhipltPzCHkABuM14umhaQ=",
+      "BlazorWASM.dll": "sha256-G2PnJ3PfOR9nDPcfsDxv7kMItFwwZSl09FMnNcb6P4U=",
       "HarfBuzzSharp.dll": "sha256-nIxgWdGaU5Vf4FvYJu+5F6Q+4bvGmpZF\/r2yHWTepzA=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-e+spRxO9fz8DobB4moFdGGdD6hxeQ7Z8SObSOPvvvwI=",
       "Microsoft.AspNetCore.Components.dll": "sha256-sG2XJmwix1tTByTJqF7uDegpJW3CyE9ii6xVm6aY038=",
@@ -49,7 +49,7 @@
       "Syncfusion.Blazor.Navigations.dll": "sha256-6d4G559g+HNEbYVALklKgtCWisXzizgdKwa8TZVKah0=",
       "Syncfusion.Blazor.Notifications.dll": "sha256-SdXpOUobiAD+rg2EE60CKCQWDXEpqedHMA4qnU8AeaI=",
       "Syncfusion.Blazor.Popups.dll": "sha256-RKWAF18hThmD6iDWhBmM4BwpbcDD43ZFbk3NVEblqEQ=",
-      "Syncfusion.Blazor.SfPdfViewer.dll": "sha256-Geawuhap28yWhmL\/KsfUmflk5h1dDnT5vd+QReT9tns=",
+      "Syncfusion.Blazor.SfPdfViewer.dll": "sha256-uaWfYZTpPPTAPyII1Ude+t0AdL1SJeQ\/PZVddz0VfTM=",
       "Syncfusion.Blazor.Spinner.dll": "sha256-MaPis8Cxv0b8mSjucoa578uhQuiwHAFm3IsNtPB9Iiw=",
       "Syncfusion.Blazor.SplitButtons.dll": "sha256-+JXKfO3vpsSJg9+IYZxDYRFfxzXjTo2aAqvdNmsRUi0=",
       "Syncfusion.Compression.Portable.dll": "sha256-\/0XNyCy36O\/9lQuIL13P0dtclQtnyvcfpgpC8p+UfJ0=",
